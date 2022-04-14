@@ -1,1 +1,2 @@
-# Projetos e exercícios do curso de Data Science Santander Coder - Let's Code
+# Santander Coders - Let's Code
+Projetos e exercícios do curso de Data Science do Santander Coders - Let's Code
